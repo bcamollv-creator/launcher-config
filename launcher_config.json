@@ -1,0 +1,38 @@
+{
+  "version": {
+    "latest": "1.0.3",
+    "minimum": "1.0.0",
+    "force_update": false,
+    "download_url": "https://github.com/launcherdev11/16Launcher/releases/latest",
+    "changelog": "- Yangi funksiyalar qo'shildi\n- Xatolar tuzatildi"
+  },
+  "motd": {
+    "enabled": true,
+    "messages": [
+      "FunTime Launcher ga xush kelibsiz!",
+      "O'yindan zavqlaning!",
+      "Omadli o'yin!",
+      "Yaxshi vaqt o'tkazing!",
+      "Minecraft olamiga xush kelibsiz!"
+    ]
+  },
+  "notices": [
+    {
+      "id": "1",
+      "type": "info",
+      "title": "Xush kelibsiz!",
+      "message": "FunTime Launcher 1.0.3 ga xush kelibsiz!",
+      "active": true,
+      "created_at": "2026-01-27"
+    }
+  ],
+  "maintenance": {
+    "enabled": false,
+    "message": "Texnik ishlar olib borilmoqda. Iltimos, keyinroq urinib ko'ring."
+  },
+  "server_status": {
+    "online": true,
+    "players_online": 0,
+    "message": ""
+  }
+}
