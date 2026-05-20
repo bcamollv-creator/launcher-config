@@ -2,7 +2,7 @@
   "version": {
     "latest": "1.0.3",
     "minimum": "1.0.0",
-    "download_url": "https://github.com/launcherdev11/16Launcher/releases/latest",
+    "download_url": "https://raw.githubusercontent.com/bcamollv-creator/launcher-config/main/launcher_config.json",
     "changelog": "- Yangi funksiyalar qo'shildi\n- Xatolar tuzatildi",
     "force_update": false
   },
