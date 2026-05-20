@@ -2,9 +2,9 @@
   "version": {
     "latest": "1.0.3",
     "minimum": "1.0.0",
-    "force_update": false,
     "download_url": "https://github.com/launcherdev11/16Launcher/releases/latest",
-    "changelog": "- Yangi funksiyalar qo'shildi\n- Xatolar tuzatildi"
+    "changelog": "- Yangi funksiyalar qo'shildi\n- Xatolar tuzatildi",
+    "force_update": false
   },
   "motd": {
     "enabled": true,
