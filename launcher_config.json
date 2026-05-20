@@ -27,7 +27,7 @@
     }
   ],
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "Texnik ishlar olib borilmoqda. Iltimos, keyinroq urinib ko'ring."
   },
   "server_status": {
